@@ -35,17 +35,4 @@ The Reset Windows Update Tool provides the following features:
 
 -   Wiki: [:us:] [:es:] [:it:] [:brazil:] [:fr:] [:de:]
 
-## Credits
 
-This project is developed and maintained by [Manuel Gil](https://github.com/ManuelGil).
-
-## License
-
-Reset Windows Update Tool is licensed under the MS-PL License - see the [Microsoft Public License](https://opensource.org/licenses/MS-PL) for details.
-
-[:us:]: https://github.com/ManuelGil/Reset-Windows-Update-Tool/wiki
-[:es:]: https://github.com/ManuelGil/Reset-Windows-Update-Tool/wiki/Home-%5Bes%5D
-[:it:]: https://github.com/ManuelGil/Reset-Windows-Update-Tool/wiki/Home-%5Bit%5D
-[:brazil:]: https://github.com/ManuelGil/Reset-Windows-Update-Tool/wiki/Home-%5Bbr%5D
-[:fr:]: https://github.com/ManuelGil/Reset-Windows-Update-Tool/wiki/Home-%5Bfr%5D
-[:de:]: https://github.com/ManuelGil/Reset-Windows-Update-Tool/wiki/Home-%5Bde%5D
